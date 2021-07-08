@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import content from "./static";
 import { useForm } from "react-hook-form";
 
